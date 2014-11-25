@@ -1,6 +1,8 @@
 efika-mpd
 ========
-Efika MPD is a headless network music player built on [Efika PPC](http://genesi.company/products/efika/5200b). Although the Efika PCC has been discontinued I think the project might be useful for someone who'd like to built a simillar player using a Raspberry Pi. This project is the player's user interface which is used to control the MPD. The user interface uses a VFD as a display and a RC5 compatible remote control as input.
+Efika MPD is a headless network music player built on [Efika PPC](http://genesi.company/products/efika/5200b). Although the Efika PCC has been discontinued I think the project might be useful for someone who'd like to built a simillar player using a Raspberry Pi. 
+
+This project is the player's user interface which is used to control the MPD. The user interface uses a VFD as a display and a RC5 compatible remote control as an input.
 
 Hardware
 --------
